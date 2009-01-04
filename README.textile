@@ -3,7 +3,7 @@ h2. django-unc
 This project is a Django authentication backend which will attempt to find 
 users via UNC's LDAP servers.
 
-To use, simply place
+To use, simply put django-unc on your Python path and place
 
     'django-unc.auth.UNCLDAPBackend',
 
